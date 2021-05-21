@@ -1,0 +1,21 @@
+{
+  "name": "jest-report-file-reporter",
+  "version": "1.0.0",
+  "description": "Output the html file path to your jest coverage reports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/picchietti/jest-report-file-reporter.git"
+  },
+  "keywords": [
+    "jest",
+    "jest-reporter",
+    "reporter"
+  ],
+  "author": "Jon Picchietti <jon@picchietti.email>",
+  "license": "ISC",
+  "homepage": "https://github.com/picchietti/jest-report-file-reporter#readme"
+}
